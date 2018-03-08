@@ -1,0 +1,45 @@
+{
+ 
+    "development": {
+ 
+        "username": "root",
+ 
+        "password": "panther9",
+ 
+        "database": "sequelize_passport",
+ 
+        "host": "localhost",
+ 
+        "dialect": "mysql"
+ 
+    },
+ 
+    "test": {
+ 
+        "username": "root",
+ 
+        "password": "panther9",
+ 
+        "database": "sequlize_passport",
+ 
+        "host": "localhost",
+ 
+        "dialect": "mysql"
+ 
+    },
+ 
+    "production": {
+ 
+        "username": "root",
+ 
+        "password": "panther9",
+ 
+        "database": "sequelize_passport",
+ 
+        "host": "localhost",
+ 
+        "dialect": "mysql"
+ 
+    }
+ 
+}

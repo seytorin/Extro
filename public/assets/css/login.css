@@ -1,0 +1,136 @@
+body {
+	background-image: url(../../img/background3.jpg);
+	background-size: 100%;
+	min-height: 75%;
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	background-attachment: fixed;
+}
+p {
+	color: #fff;
+}
+.mainlogo {
+	margin-bottom: 30px;
+	background-color: none;
+}
+
+.container-index {
+	background: #c8ebf2;
+	top: 20px;
+	margin: 40px auto;
+	height: auto;
+	padding: 5px;
+	border-radius: 15px;
+	text-align: center;
+}
+.panel-heading {
+	color: #333;
+	text-decoration: underline;
+	
+}
+
+.panel-login {
+	margin-left: 45px;
+	background-color: transparent;
+}
+.profile-info {
+	margin-left: 45px;
+
+}
+.register-form-link,
+.login-form-link {
+	text-decoration: underline;
+}
+.main-box{
+	background-color: #c8ebf2;
+	background-color: rgba(121,169,190, .6);
+	top: 20px;
+	margin: 40px auto;
+	height: auto;
+	padding: 10px;
+	border: none;
+	border-radius: 15px;
+	text-align: center;
+}
+
+.login-form {
+	color: white;
+}
+
+.userList {
+	height:500px; 
+	width:200px; 
+	background-color:#E6E6E6; 
+	position: absolute;
+	top: 15%;
+	left: 5%;
+}
+
+#looking_for {
+	margin-bottom: 20px;
+
+}
+.chatHistory {
+	height:500px; 
+	width:700px; 
+	background-color:#E6E6E6; 
+	position: absolute;
+	top: 15%;
+	left:25%;
+}
+
+.message {
+	width: 600px;
+	position: absolute;
+	top: 80%;
+	left: 25%;
+}
+
+.sendButton {
+	position: absolute;
+	top: 80%;
+	left: 70%;
+}
+
+.leaveButton {
+	position: absolute;
+	top: 80%;
+	left: 10%;
+}
+
+.userNameBar {
+	position: absolute;
+	top: 50%;
+	left: 38%;
+}
+
+.joinButton {
+	position: absolute;
+	top: 50%;
+	left: 55%;
+}
+
+.welcome {
+	position: absolute;
+	top: 40%;
+	left: 33%;
+	font-size: xx-large;
+	color: red;
+	font-weight: bold;
+}
+
+.channelState {
+	height:200px; 
+	width:200px; 
+	background-color:#E6E6E6; 
+	position: absolute;
+	top: 15%;
+	left:30%;
+}
+
+.updateButton {
+	position: absolute;
+	top: 25%;
+	left:45%;
+}

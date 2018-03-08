@@ -1,0 +1,33 @@
+{
+  "name": "chirpy-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.2",
+    "npm": "^5.7.1",
+    "python": "0.0.4",
+    "sendbird": "^3.0.54",
+    "sequelize": "^4.35.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KStark13/extroflirt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KStark13/extroflirt/issues"
+  },
+  "homepage": "https://github.com/KStark13/extroflirt#readme"
+}
