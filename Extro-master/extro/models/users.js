@@ -1,6 +1,7 @@
 
 module.exports = function(sequelize, Sequelize) {
 
+// Sets db parameters for sequelize orm
 	var User = sequelize.define('user', {
 		id: { autoIncrement: true, primaryKey: true, type: Sequelize.INTEGER},
 		firstname: { type: Sequelize.STRING,notEmpty: true},

@@ -1,3 +1,4 @@
+// Renders pages based on requests
 var exports = module.exports = {}
 
 
@@ -13,11 +14,6 @@ exports.signin = function(req,res){
 
 }
 
-// exports.dashboard = function(req,res){
-
-// 	res.render('dashboard'); 
-
-// }
 
 exports.profile = function(req,res){
 

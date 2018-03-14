@@ -1,4 +1,3 @@
-
 var appId = '43BD3798-F23B-4278-B37F-23BDED770847';
 var currScrollHeight = 0;
 var MESSAGE_TEXT_HEIGHT = 27;

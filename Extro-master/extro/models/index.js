@@ -11,7 +11,7 @@ var db        = {};
 
 
 
-
+//Sets up db
 fs
   .readdirSync(__dirname)
   .filter(function(file) {

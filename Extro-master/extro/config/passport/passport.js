@@ -36,7 +36,7 @@ passport.use('local-signup', new LocalStrategy(
 
   function(req, email, password, done){
      
-
+    // Creates hash using bCrypt
     var generateHash = function(password) {
     return bCrypt.hashSync(password, bCrypt.genSaltSync(8), null);
     };
